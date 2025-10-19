@@ -1,4 +1,10 @@
 class Cat{
     String name;
     int age;
+
+    
+}
+
+class Panda{
+   
 }
